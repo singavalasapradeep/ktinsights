@@ -1,0 +1,5 @@
+Aws devops 6.30pm
+batch
+kt-insights
+we cover aws git local repo yesterday
+today we are going to finish git remote
